@@ -1,1 +1,1 @@
-# Tugas_Praktikum_PengolahanCitra
+# Tugas_Praktikum_PengolahanCitra_Semua_Tugas_Praktikum_Jadi_1_Di_Google_Colab
