@@ -1,1 +1,1 @@
-# Tugas_Praktikum_PengolahanCitra_Semua_Tugas_Praktikum_Jadi_1_Di_Google_Colab
+# Tugas Praktikum Pengolahan Citra (Semua Tugas Praktikum Jadi 1 Di Google Colab)
